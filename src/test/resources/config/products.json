@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "67a8dde5c0d3e6622a297cc8",
+    "productName": "ZARA COAT 3",
+    "productCategory": "fashion",
+    "productSubCategory": "shirts",
+    "productPrice": 31500,
+    "productDescription": "Adidas Originals",
+    "productImage": "https://rahulshettyacademy.com/api/ecom/uploads/productImage_1650649434146.jpeg",
+    "productRating": "0",
+    "productTotalOrders": "0",
+    "productStatus": true,
+    "productAddedBy": "admin@gmail.com",
+    "__v": 0,
+    "productFor": "family"
+  },
+  {
+    "_id": "67a8df1ac0d3e6622a297ccb",
+    "productName": "ADIDAS ORIGINAL",
+    "productCategory": "fashion",
+    "productSubCategory": "shirts",
+    "productPrice": 31500,
+    "productDescription": "Addias Originals",
+    "productImage": "https://rahulshettyacademy.com/api/ecom/uploads/productImage_1650649488046.jpg",
+    "productRating": "0",
+    "productTotalOrders": "0",
+    "productStatus": true,
+    "productFor": "women",
+    "productAddedBy": "admin@gmail.com",
+    "__v": 0
+  },
+  {
+    "_id": "67a8df56c0d3e6622a297ccd",
+    "productName": "IPHONE 13 PRO",
+    "productCategory": "electronics",
+    "productSubCategory": "mobiles",
+    "productPrice": 231500,
+    "productDescription": "iphonenew",
+    "productImage": "https://rahulshettyacademy.com/api/ecom/uploads/productImage_1650649561326.jpg",
+    "productRating": "0",
+    "productTotalOrders": "0",
+    "productStatus": true,
+    "productFor": "women",
+    "productAddedBy": "admin@gmail.com",
+    "__v": 0
+  }
+]

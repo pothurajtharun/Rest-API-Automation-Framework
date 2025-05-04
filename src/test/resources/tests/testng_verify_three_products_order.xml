@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="verify-three-products-order">
+  <test name="three-products-order">
+    <classes>
+      <class name="com.tharun.qa.tests.ProductOrderTest">
+        <methods>
+          <include name="verifyLoginTest"/>
+          <include name="verifyAddThreeProductsToCartById"/>
+          <include name="verifyThreeProductsInTheCart"/>
+          <include name="verifyCreateOrderWithThreeProducts"/>
+          <include name="verifyGetOrderDetailsForThreeProducts"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

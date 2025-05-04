@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="verify-products-order">
+  <suite-files>
+    <suite-file path="../tests/testng_verify_single_product_order.xml"/>
+    <suite-file path="../tests/testng_verify_two_products_order.xml"/>
+    <suite-file path="../tests/testng_verify_three_products_order.xml"/>
+  </suite-files>
+</suite>
